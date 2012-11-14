@@ -71,6 +71,8 @@ You can also get feedback
 <pre>
   <code>
     APNS.feedback
+
+    => [[2012-11-14 15:01:40 +0900, "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"]]
   </code>
 </pre>
 
