@@ -64,6 +64,16 @@ You can also send multiple notifications using the same connection to Apple:
 </pre>
 
 
+h2. Example (feedback):
+
+You can also get feedback 
+
+<pre>
+  <code>
+    APNS.feedback
+  </code>
+</pre>
+
 h2. Send other info along with aps
 
 You can send other application specific information as well.
